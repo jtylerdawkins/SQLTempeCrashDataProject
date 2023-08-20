@@ -17,3 +17,6 @@ I used this opportunity to do some simple data exploration using SQL queries. Fi
 7.	How many were alcohol-related?<br>
 8.	What is the ratio of men to women involved in incidents?<br>
 9.	What is the ratio of incidents with injuries versus no injuries?<br>
+
+Images
+![alt_text](https://github.com/jtylerdawkins/SQLTempeCrashDataProject/blob/main/SQLTempeGovCrashDataPic1.PNG?raw=true)
