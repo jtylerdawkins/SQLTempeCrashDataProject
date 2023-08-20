@@ -15,4 +15,5 @@ I used this opportunity to do some simple data exploration using SQL queries. Fi
 7.	How many were alcohol-related?<br>
 8.	What is the ratio of men to women involved in incidents?<br>
 9.	What is the ratio of incidents with injuries versus no injuries?<br>
+
 I noticed that driver 1 is usually the driver committing a violation, and driver 2 is usually coded as an innocent casualty of some sort. My assumption is this is simply how the data is entered to make it easier to keep track of. Thus, I will be more critically analyzing driver 1 when exploring potential causes or reasons.
